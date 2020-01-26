@@ -1,0 +1,2 @@
+Summary: Long Short Term Memory Networks(LSTM) using Tensorflow ==2.0
+Objective: this repo attempts  to apply Long Short Term Memory networks using TensorFlow framework to forecast stock prices in python.
